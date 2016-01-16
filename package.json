@@ -1,8 +1,8 @@
 {
 	"name": "html-snippets",
-	"displayName": "HTML-Snippets",
+	"displayName": "HTML Snippets",
 	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "0.0.9",
+	"version": "0.0.10",
 	"publisher": "abusaidm",
 	"icon": "images/icon.png",
 	"engines": {

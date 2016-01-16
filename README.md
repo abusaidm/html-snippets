@@ -41,4 +41,7 @@ Snippets named as the tag without braces
 # Contact
 If you find any issue or have a suggestion please tweet me on @m_abusaid
 
+# Source
+[Github](https://github.com/abusaidm/html-snippets)
+
 ** Enjoy!**
