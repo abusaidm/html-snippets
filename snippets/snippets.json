@@ -20,12 +20,6 @@
     "description": "HTML - Defines an abbreviation",
     "scope": "text.html"
     },
-    "acronym": {
-    "prefix": "acronym",
-    "body": "<acronym title=\"$1\">$2</acronym>$3",
-    "description": "HTML - Used to define an embedded acronyms [deprecated]",
-    "scope": "text.html"
-    },
     "address": {
     "prefix": "address",
     "body": [
@@ -34,12 +28,6 @@
         "</address>"
         ],
     "description": "HTML - Defines an address element",
-    "scope": "text.html"
-    },
-    "applet": {
-    "prefix": "applet",
-    "body": "<applet>$1</applet>$2",
-    "description": "HTML - Used to define an embedded applet [deprecated]",
     "scope": "text.html"
     },
     "area": {
@@ -88,12 +76,6 @@
     "prefix": "base",
     "body": "<base href=\"$1\" target=\"$2\">",
     "description": "HTML - Defines a base URL for all the links in a page",
-    "scope": "text.html"
-    },
-    "basefont": {
-    "prefix": "basefont",
-    "body": "<basefont>$1</basefont>",
-    "description": "HTML - Used to define a default font-color, font-size, or font-family for all the document [deprecated]",
     "scope": "text.html"
     },
     "bdi": {
@@ -158,12 +140,6 @@
     "prefix": "caption",
     "body": "<caption>$1</caption>",
     "description": "HTML - Defines a table caption",
-    "scope": "text.html"
-    },
-    "center": {
-    "prefix": "center",
-    "body": "<center>$1</center>$2",
-    "description": "HTML - Used to center align text and content [deprecated]",
     "scope": "text.html"
     },
     "cite": {
@@ -243,12 +219,6 @@
     "description": "HTML - Defines a definition term",
     "scope": "text.html"
     },
-    "dir": {
-    "prefix": "dir",
-    "body": "<dir>$1</dir>",
-    "description": "HTML - Used to define a directory list [deprecated]",
-    "scope": "text.html"
-    },
     "div": {
     "prefix": "div",
     "body": [
@@ -312,12 +282,6 @@
     "description": "HTML - Defines a group of media content, and their caption",
     "scope": "text.html"
     },
-    "font": {
-    "prefix": "font",
-    "body": "<font>$1</font>$2",
-    "description": "HTML - Used to define font face, font size, and font color of text [deprecated]",
-    "scope": "text.html"
-    },
     "footer": {
     "prefix": "footer",
     "body": [
@@ -336,18 +300,6 @@
         "</form>"
         ],
     "description": "HTML - Defines a form",
-    "scope": "text.html"
-    },
-    "frame": {
-    "prefix": "frame",
-    "body": "<frame>$1</frame>",
-    "description": "HTML - Used to define one particular window (frame) within a frameset [deprecated]",
-    "scope": "text.html"
-    },
-    "frameset": {
-    "prefix": "frameset",
-    "body": "<frameset>$1</frameset>",
-    "description": "HTML - Used to define a frameset, which organized multiple windows (frames) [deprecated]",
     "scope": "text.html"
     },
     "h1": {
@@ -561,12 +513,6 @@
     "description": "HTML - Defines navigation links",
     "scope": "text.html"
     },
-    "noframes": {
-    "prefix": "noframes",
-    "body": "<noframes>$1</noframes>",
-    "description": "HTML - Used to display text for browsers that do not handle frames [deprecated]",
-    "scope": "text.html"
-    },
     "noscript": {
     "prefix": "noscript",
     "body": [
@@ -675,12 +621,6 @@
     "prefix": "s",
     "body": "<s>$1</s>",
     "description": "HTML - Used to define strikethrough text",
-    "scope": "text.html"
-    },
-    "strike": {
-    "prefix": "strike",
-    "body": "<strike>$1</strike>",
-    "description": "HTML - Used to define strikethrough text [deprecated]",
     "scope": "text.html"
     },
     "samp": {
@@ -851,12 +791,6 @@
     "prefix": "track",
     "body": "<track src=\"$1\" kind=\"$2\" srclang=\"$3\" label=\"$4\">",
     "description": "HTML - Defines a table row",
-    "scope": "text.html"
-    },
-    "tt": {
-    "prefix": "tt",
-    "body": "<tt>$1</tt>",
-    "description": "HTML - Used to define teletype text [deprecated]",
     "scope": "text.html"
     },
     "u": {

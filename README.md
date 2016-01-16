@@ -9,6 +9,9 @@ This extension adds rich language support for the HTML Markup to VS Code, includ
 - [partially implemented] Quick Info
 - description mentions if tag deprecated 
 
+### Update
+- removed deprecated tags [acronym, applet, basefont, center, dir, font, frame, frameset, noframes, strike, tt] 
+
 ### Todo
 - [on-going]Improve syntax layout.
 - [on-going]Add support for Tab to end of line.
