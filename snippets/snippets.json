@@ -432,6 +432,24 @@
     "description": "HTML - Defines an html document",
     "scope": "text.html"
     },
+    "html5": {
+    "prefix": "html5",
+    "body": [
+        "<!DOCTYPE>",
+        "<html lang=\"$1en\">",
+        "\t<head>",
+        "\t\t<title>$2</title>",
+        "\t\t<meta charset=\"UTF-8\">",
+        "\t\t<link href=\"$3css\\style.css\" rel=\"stylesheet\">",
+        "\t</head>",
+        "\t<body>",
+        "\t$4",
+        "\t</body>",
+        "</html>"
+        ],
+    "description": "HTML - Defines a template for a html5 document",
+    "scope": "text.html"
+    },
     "i": {
     "prefix": "i",
     "body": "<i>$1</i>",
