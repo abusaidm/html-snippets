@@ -435,7 +435,7 @@
     "html5": {
     "prefix": "html5",
     "body": [
-        "<!DOCTYPE>",
+        "<!DOCTYPE html>",
         "<html lang=\"$1en\">",
         "\t<head>",
         "\t\t<title>$2</title>",
