@@ -435,12 +435,12 @@
     "html5": {
     "prefix": "html5",
     "body": [
-        "<!DOCTYPE>",
+        "<!DOCTYPE html>",
         "<html lang=\"$1en\">",
         "\t<head>",
         "\t\t<title>$2</title>",
         "\t\t<meta charset=\"UTF-8\">",
-        "\t\t<link href=\"$3css\\style.css\" rel=\"stylesheet\">",
+        "\t\t<link href=\"$3css/style.css\" rel=\"stylesheet\">",
         "\t</head>",
         "\t<body>",
         "\t$4",
