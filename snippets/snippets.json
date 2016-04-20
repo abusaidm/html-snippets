@@ -384,11 +384,7 @@
     "description": "HTML - Defines an html document",
     "scope": "text.html"
     },
-<<<<<<< HEAD
-	"html5": {
-=======
     "html5": {
->>>>>>> fdf6a407c57c2ea56c5d0dfd12ce3e2584760cfa
     "prefix": "html5",
     "body": [
         "<!DOCTYPE html>",
