@@ -2,7 +2,7 @@
 	"name": "html-snippets",
 	"displayName": "HTML Snippets",
 	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "0.0.12",
+	"version": "0.0.13",
 	"publisher": "abusaidm",
 	"icon": "images/icon.png",
 	"engines": {
