@@ -1,5 +1,5 @@
 {
-	"doctype": {
+    "doctype": {
     "prefix": "doctype",
     "body": [
         "<!DOCTYPE>",
@@ -103,7 +103,7 @@
     "prefix": "blockquote",
     "body": [
         "<blockquote cite=\"$2\">",
-        "\t $1",
+        "\t$1",
         "</blockquote>"
         ],
     "description": "HTML - Defines a long quotation",
@@ -113,7 +113,7 @@
     "prefix": "body",
     "body": [
         "<body>",
-        "\t $1",
+        "\t$1",
         "</body>"],
     "description": "HTML - Defines the body element",
     "scope": "text.html"
