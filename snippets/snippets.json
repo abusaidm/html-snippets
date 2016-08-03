@@ -392,6 +392,7 @@
         "\t<head>",
         "\t\t<title>$2</title>",
         "\t\t<meta charset=\"UTF-8\">",
+        "\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
         "\t\t<link href=\"$3css/style.css\" rel=\"stylesheet\">",
         "\t</head>",
         "\t<body>",
