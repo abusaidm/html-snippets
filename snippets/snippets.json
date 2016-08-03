@@ -459,7 +459,7 @@
     },
     "li": {
     "prefix": "li",
-    "body": "<li>$1</li>$2",
+    "body": "<li>$1</li>",
     "description": "HTML - Defines a list item",
     "scope": "text.html"
     },
