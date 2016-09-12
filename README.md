@@ -9,7 +9,10 @@ This extension adds rich language support for the HTML Markup to VS Code, includ
 - [partially implemented] Quick Info
 - description mentions if tag deprecated 
 
-### Update
+### Update 2
+- fixed a bug with line cursor on vscode 1.5.1
+
+### Update 1
 - removed deprecated tags [acronym, applet, basefont, center, dir, font, frame, frameset, noframes, strike, tt]
 - fixed LI tag issue, you couldn't add new line in the tags
 
