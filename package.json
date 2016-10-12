@@ -20,6 +20,10 @@
 			{
 				"language": "html",
 				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "php",
+				"path": "./snippets/snippets.json"
 			}
 		]
 	}
