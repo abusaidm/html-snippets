@@ -9,6 +9,10 @@ This extension adds rich language support for the HTML Markup to VS Code, includ
 - [partially implemented] Quick Info
 - description mentions if tag deprecated 
 
+### Update 3
+- added php, js, and jsreact as languages where the snippets work by default.
+
+
 ### Update 2
 - fixed a bug with line cursor on vscode 1.5.1
 

@@ -2,7 +2,7 @@
 	"name": "html-snippets",
 	"displayName": "HTML Snippets",
 	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "0.0.16",
+	"version": "0.0.18",
 	"publisher": "abusaidm",
 	"icon": "images/icon.png",
 	"engines": {
@@ -23,6 +23,14 @@
 			},
 			{
 				"language": "php",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascriptreact",
 				"path": "./snippets/snippets.json"
 			}
 		]
