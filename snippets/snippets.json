@@ -655,7 +655,7 @@
         "\t$1",
         "</script>"
         ],
-    "description": "HTML - Defines a definition list",
+    "description": "HTML - Defines a script",
     "scope": "text.html"
     },
     "section": {
