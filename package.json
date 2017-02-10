@@ -2,11 +2,11 @@
 	"name": "html-snippets",
 	"displayName": "HTML Snippets",
 	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "0.0.18",
+	"version": "0.1.0",
 	"publisher": "abusaidm",
 	"icon": "images/icon.png",
 	"engines": {
-		"vscode": "^0.10.1"
+		"vscode": "^1.9.1"
 	},
 	"galleryBanner": {
 		"color": "#1E81C1",
@@ -19,18 +19,6 @@
 		"snippets": [
 			{
 				"language": "html",
-				"path": "./snippets/snippets.json"
-			},
-			{
-				"language": "php",
-				"path": "./snippets/snippets.json"
-			},
-			{
-				"language": "javascript",
-				"path": "./snippets/snippets.json"
-			},
-			{
-				"language": "javascriptreact",
 				"path": "./snippets/snippets.json"
 			}
 		]

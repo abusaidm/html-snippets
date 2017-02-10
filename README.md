@@ -9,6 +9,10 @@ This extension adds rich language support for the HTML Markup to VS Code, includ
 - [partially implemented] Quick Info
 - description mentions if tag deprecated 
 
+### Update 4
+- Removed all languages, only HTML Remains.
+- Added FAQ in end of page.
+
 ### Update 3
 - added php, js, and jsreact as languages where the snippets work by default.
 
@@ -45,9 +49,29 @@ Snippets named as the tag without braces
 5. Type `HTML-Snippets`
 6. Choose the extension
 7. Reload Visual Studio Code
+
+# FAQ
+## How to enable the snippets on a file other than html?
+Add the following code to the project settings.json or global settings.json :
+```
+"files.associations": {
+        // extension name : html
+        "*.ejs": "html",
+        "*.js": "html"
+    }
+```
+the above code will allow html snippet to work on .ejs and .js files, amend to fit your needs.
+
+## How can I report an issue?
+The easiest way is to start a git issue, I will attempt to answer ASAP else I hope someone else will answer.
  
 # Contact
 If you find any issue or have a suggestion please tweet me on @m_abusaid
+
+>**I am unable to respond to comments on the store page, please use appropriate channels github/twitter to reach me. Thank you**
+
+## License
+MIT License, refer to license file.
 
 # Source
 [Github](https://github.com/abusaidm/html-snippets)
