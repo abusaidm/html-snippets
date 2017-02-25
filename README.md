@@ -52,7 +52,7 @@ Snippets named as the tag without braces
 
 # FAQ
 ## How to enable the snippets on a file other than html?
-Add the following code to the project settings.json or global settings.json :
+<s>Add the following code to the project settings.json or global settings.json :
 ```
 "files.associations": {
         // extension name : html
@@ -60,7 +60,10 @@ Add the following code to the project settings.json or global settings.json :
         "*.js": "html"
     }
 ```
-the above code will allow html snippet to work on .ejs and .js files, amend to fit your needs.
+the above code will allow html snippet to work on .ejs and .js files, amend to fit your needs.</s>
+
+Please Read this answer.
+[Make extension work in languages other than HTML](https://github.com/abusaidm/html-snippets/issues/27#issuecomment-282512411)
 
 ## How can I report an issue?
 The easiest way is to start a git issue, I will attempt to answer ASAP else I hope someone else will answer.
