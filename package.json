@@ -20,7 +20,11 @@
 			{
 				"language": "html",
 				"path": "./snippets/snippets.json"
-			}
+			},
+			{
+ -				"language": "handlebars",
+ -				"path": "./snippets/snippets.json"
+ -			},
 		]
 	}
 }
