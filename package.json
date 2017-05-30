@@ -5,6 +5,10 @@
 	"version": "0.1.2",
 	"publisher": "wgenial",
 	"icon": "images/icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wgenial/html-snippets.git"
+	},
 	"engines": {
 		"vscode": "^1.9.1"
 	},
