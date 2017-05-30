@@ -424,7 +424,7 @@
     "input tvn": {
     "prefix": "input_tnv",
     "body": "<input type=\"$1\" name=\"$2\" value=\"$3\">$4",
-    "description": "HTML - Defines an input field",
+    "description": "HTML - Defines an input field with type, name, and value properties",
     "scope": "text.html"
     },
     "input": {
