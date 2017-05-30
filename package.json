@@ -2,7 +2,7 @@
 	"name": "html-snippets",
 	"displayName": "HTML Snippets",
 	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"publisher": "wgenial",
 	"icon": "images/icon.png",
 	"engines": {
