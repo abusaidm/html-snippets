@@ -656,6 +656,14 @@
     "description": "HTML - Defines a script",
     "scope": "text.html"
     },
+    "scriptsrc": {
+    "prefix": "scriptsrc",
+    "body": [
+        "<script src=\"$1\"></script>"
+        ],
+    "description": "HTML5 - Defines URI of an external script",
+    "scope": "text.html"
+    },
     "section": {
     "prefix": "section",
     "body": [

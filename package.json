@@ -2,8 +2,8 @@
 	"name": "html-snippets",
 	"displayName": "HTML Snippets",
 	"description": "Full HTML tags including HTML5 Snippets",
-	"version": "0.1.0",
-	"publisher": "abusaidm",
+	"version": "0.1.1",
+	"publisher": "wgenial",
 	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.9.1"
