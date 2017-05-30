@@ -9,6 +9,9 @@ This extension adds rich language support for the HTML Markup to VS Code, includ
 - [partially implemented] Quick Info
 - description mentions if tag deprecated 
 
+### Update 5
+- Add new snippet to script src.
+
 ### Update 4
 - Removed all languages, only HTML Remains.
 - Added FAQ in end of page.
