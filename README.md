@@ -1,8 +1,7 @@
-# README
-## Visual Studio Code HTML Snippets
+
+# Visual Studio Code HTML Snippets
  
 This extension adds rich language support for the HTML Markup to VS Code, including:
-
 - Full HTML5 Tags
 - Colorization
 - Snippets
@@ -10,7 +9,7 @@ This extension adds rich language support for the HTML Markup to VS Code, includ
 - description mentions if tag deprecated 
 
 ### Update 5
-- Add new snippet to script src.
+- Add new snippet to script with property src.
 
 ### Update 4
 - Removed all languages, only HTML Remains.
@@ -28,11 +27,11 @@ This extension adds rich language support for the HTML Markup to VS Code, includ
 - fixed LI tag issue, you couldn't add new line in the tags
 
 ### Todo
-- [on-going]Improve syntax layout.
-- [on-going]Add support for Tab to end of line.
-- [on-going]Populate Tags with properties.
+- [on-going] Improve syntax layout.
+- [on-going] Add support for Tab to end of line.
+- [on-going] Populate Tags with properties.
 
-# Using
+## Using
 Type part of a snippet, press enter, and the snippet unfolds.
 
 Snippets named as the tag without braces 
@@ -43,7 +42,7 @@ Snippets named as the tag without braces
 
 ![alt text](http://i.imgur.com/VOhBvHb.gif "Snippets Preview")
 
-# Installation
+## Installation
 
 1. Install Visual Studio Code 0.10.1 or higher
 2. Launch Code
@@ -53,33 +52,16 @@ Snippets named as the tag without braces
 6. Choose the extension
 7. Reload Visual Studio Code
 
-# FAQ
-## How to enable the snippets on a file other than html?
-<s>Add the following code to the project settings.json or global settings.json :
-```
-"files.associations": {
-        // extension name : html
-        "*.ejs": "html",
-        "*.js": "html"
-    }
-```
-the above code will allow html snippet to work on .ejs and .js files, amend to fit your needs.</s>
-
+## FAQ
+### How to enable the snippets on a file other than html?
 Please Read this answer.
 [Make extension work in languages other than HTML](https://github.com/abusaidm/html-snippets/issues/27#issuecomment-282512411)
-
-## How can I report an issue?
-The easiest way is to start a git issue, I will attempt to answer ASAP else I hope someone else will answer.
  
-# Contact
-If you find any issue or have a suggestion please tweet me on @m_abusaid
-
->**I am unable to respond to comments on the store page, please use appropriate channels github/twitter to reach me. Thank you**
-
 ## License
 MIT License, refer to license file.
 
-# Source
-[Github](https://github.com/abusaidm/html-snippets)
+## Source
+[Github](https://github.com/wgenial/html-snippets)
 
-** Enjoy!**
+### Disclaimer
+This extension is a forked version from [https://github.com/abusaidm/html-snippets](https://github.com/abusaidm/html-snippets) @m_abusaid (author)
