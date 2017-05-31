@@ -427,12 +427,6 @@
     "description": "HTML - Defines an input field with type, name, and value properties",
     "scope": "text.html"
     },
-    "input": {
-    "prefix": "input",
-    "body": "<input>$1",
-    "description": "HTML - Defines an input field",
-    "scope": "text.html"
-    },
     "ins": {
     "prefix": "ins",
     "body": "<ins>$1</ins>$2",
@@ -657,9 +651,7 @@
     "script": {
     "prefix": "script",
     "body": [
-        "<script>",
-        "\t$1",
-        "</script>"
+        "<script>$1</script>"
         ],
     "script src": {
     "prefix": "script",
