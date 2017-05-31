@@ -595,9 +595,7 @@
     "pre": {
     "prefix": "pre",
     "body": [
-        "<pre>",
-        "$1",
-        "</pre>"
+        "<pre>$1</pre>"
         ],
     "description": "HTML - Defines preformatted text",
     "scope": "text.html"
