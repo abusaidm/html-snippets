@@ -421,10 +421,10 @@
     "description": "HTML - Defines an image",
     "scope": "text.html"
     },
-    "input": {
-    "prefix": "input",
+    "input tnv": {
+    "prefix": "input_tnv",
     "body": "<input type=\"$1\" name=\"$2\" value=\"$3\">$4",
-    "description": "HTML - Defines an input field",
+    "description": "HTML - Defines an input field with type,name and value attributes",
     "scope": "text.html"
     },
     "ins": {
@@ -649,9 +649,7 @@
     "script": {
     "prefix": "script",
     "body": [
-        "<script>",
-        "\t$1",
-        "</script>"
+        "<script>$1</script>"
         ],
     "description": "HTML - Defines a script",
     "scope": "text.html"
