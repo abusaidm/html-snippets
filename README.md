@@ -38,7 +38,7 @@ Snippets named as the tag without braces
     doc --> <!DOCTYPE html>
     a   --> <a href=""></a>
 
-![alt text](http://i.imgur.com/VOhBvHb.gif "Snippets Preview")
+![alt text](https://i.imgur.com/VOhBvHb.gif "Snippets Preview")
 
 # Installation
 
