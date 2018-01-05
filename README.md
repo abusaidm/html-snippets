@@ -1,5 +1,6 @@
 # README
 ## Visual Studio Code HTML Snippets
+## DISABLING THIS EXTENSION AS IT CURRENTLY CONFLICTS WTH EXISTING VS CODE HTML EXTENSION
  
 This extension adds rich language support for the HTML Markup to VS Code, including:
 
@@ -8,6 +9,9 @@ This extension adds rich language support for the HTML Markup to VS Code, includ
 - Snippets
 - [partially implemented] Quick Info
 - description mentions if tag deprecated 
+
+### Update 5
+- Disabling this extension as its functionality has been absorbed by VS Code main html extension.
 
 ### Update 4
 - Removed all languages, only HTML Remains.
@@ -38,7 +42,7 @@ Snippets named as the tag without braces
     doc --> <!DOCTYPE html>
     a   --> <a href=""></a>
 
-![alt text](http://i.imgur.com/VOhBvHb.gif "Snippets Preview")
+![alt text](https://i.imgur.com/VOhBvHb.gif "Snippets Preview")
 
 # Installation
 
