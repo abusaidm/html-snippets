@@ -841,4 +841,12 @@
 //     "description": "HTML - Defines a video",
 //     "scope": "text.html"
 //     }
+//     "mark": {
+//     "prefix": "mark",
+//     "body": [
+//         "<mark>$1",
+//         "</mark>"],
+//     "description": "HTML - Marker a text",
+//     "scope": "text.html"
+//     }
 // }
